@@ -22,10 +22,30 @@ It features obstacle detection and avoidance, currency and product recognition, 
 ---
 
 ## 🛠 Tech Stack
+## 🛠️ Hardware Stack
 
-- **Hardware:** STM32F103, Ultrasonic Sensors, Vibration Motors, Servo Motors
-- **Software:** Embedded C, Python (for vision), TensorFlow Lite, OpenCV, OCR
-- **Design Tools:** Fusion 360 (enclosure), KiCad (PCB Design)
+| Component | Description |
+|----------|-------------|
+| **UNIHIKER SBC** | IoT Python-based single board computer with touchscreen |
+| **Raspberry Pi 5** | Core AI inference engine and vision processing |
+| **XIAO ESP32S3 Sense** | TinyML-based classification and secondary processing |
+| **STM32F411 BlackPill** | Real-time control for haptic feedback and motors |
+| **Grove Ultrasonic Sensors (x5)** | Distance measurement and obstacle mapping |
+| **Logitech HD Webcams (x3)** | Depth estimation, OCR, and object recognition |
+| **Vibrating Disc Motor** | Tactile feedback for navigation alerts |
+| **Speaker (0.25W, 8Ω)** | Audio output for TTS and alert messages |
+
+---
+
+## 💻 Software & Frameworks
+- **OpenCV** for image processing
+- **Tesseract OCR** for text recognition
+- **Edge AI models** (Monocular Depth + Classification)
+- **MicroPython / C** on microcontrollers
+- **Python + Flask** for interfacing
+- **Path Planning** using A* algorithm
+
+---
 
 ---
 
