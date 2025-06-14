@@ -29,22 +29,6 @@ It features obstacle detection and avoidance, currency and product recognition, 
 
 ---
 
-## 📷 Visuals
-
-| System Overview | Navigation Feedback | Object Detection |
-|-----------------|---------------------|------------------|
-| ![System](https://hackster.imgix.net/uploads/attachments/1603687/image_5_zChJm97AKi.png) | ![Haptic](https://hackster.imgix.net/uploads/attachments/1603688/image_6_PFO6WgI06S.png) | ![Detection](https://hackster.imgix.net/uploads/attachments/1603685/image_3_UMWz67nm4I.png) |
-
----
-
-## 📂 Files & Structure
-
-You can clone this repo to access related code snippets, circuit schematics, and visual resources (if included):
-
-- `/docs`: Circuit diagrams and schematics
-- `/code`: Embedded system source code (STM32/Arduino-style)
-- `/media`: Images, videos, and demo assets
-
 For full project steps, architecture, and code walkthrough,
 visit the [Hackster.io page](https://www.hackster.io/DSAY_Diablo27/haptic-navigator-and-visual-information-scanner-c87b81).
 
