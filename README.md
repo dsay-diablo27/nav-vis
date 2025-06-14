@@ -4,6 +4,7 @@
 > access visual information through haptic feedback and AI-based recognition.
 
 [ View Full Project on Hackster.io](https://www.hackster.io/DSAY_Diablo27/haptic-navigator-and-visual-information-scanner-c87b81)
+---
  Overview
 
 This project combines depth sensing, haptic feedback, and embedded AI to create a real-time assistance system for the visually impaired.
